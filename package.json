@@ -1,0 +1,16 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Repository to explore node functionalities",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./node_server/1.http.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "standard": "^17.1.2"
+  }
+}
